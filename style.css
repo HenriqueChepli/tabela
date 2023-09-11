@@ -1,0 +1,38 @@
+body {
+    margin-top: auto;
+    background-color: #274360;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+table{
+    color: white;
+    margin: auto;
+
+}
+
+table, th, td{
+    border: 1px solid grey;
+    padding: 15px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+li{
+    color: grey;
+}
+
+#tabela {
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+img {
+    width: 100%;
+}
+
+td:hover{
+    transition: ease-in-out 0.5s;
+    background-color: #212121;
+    font-size: 18px;
+    padding: 10px;
+}
